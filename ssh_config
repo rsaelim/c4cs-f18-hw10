@@ -1,0 +1,5 @@
+# CAEN
+Host caengo
+	HostName login.engin.umich.edu
+	User rsaelim
+	Compression yes
